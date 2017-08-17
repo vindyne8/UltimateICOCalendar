@@ -1,6 +1,6 @@
 # Ultimate ICO Calendar
 
-#### The ICO Calendar is being maintained by arvindborhade at https://github.com/arvindborhade/UltimateICOCalendar
+#### The ICO Calendar is being maintained by Avadhoot Kulkarni at https://github.com/avadhootkulkarni/UltimateICOCalendar
 
 ## Other ICO Resources
 
